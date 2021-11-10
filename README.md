@@ -1,8 +1,8 @@
 # Prerequisites
 
 If you will have problem with your project update
-Yarn -> 1.22.4
-node -> 14.16.1
+`Yarn -> 1.22.4`
+`node -> 14.16.1`
 
 ## To run your project
 
